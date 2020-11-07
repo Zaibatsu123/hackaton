@@ -52,6 +52,6 @@ int	main(void)
 	sleep(1);
 	printf("\nTable reserved.\n");
 	sleep(1);
-	printf("%s\n", "\nBon appetit! :D");
+	printf("%s\n", "\nBon appetit!");
 	return (0);
 }
